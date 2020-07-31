@@ -10,17 +10,16 @@
 <a href="https://twitter.com/Dj_Deepanshu17/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  
+<br>
  
-I'm a final year engineering student from Indore pursuing Computer Science. I am a Data Science and programming enthusiast, love exploring new technologies and implement them in my projects.
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+I'm a final year Software Engineering student from Indore. I am a Data Science and programming enthusiast, love exploring new technologies and implement them in my projects.
+- 🔭 I’m currently working on Convolutional Neural Networks(CNNs).
+- 🌱 I’m currently learning General Adversarial Networks(GANs).
+- 👯 I’m looking to collaborate on projects on Deep Learning.
+- 💬 Ask me about Python, data science, competitive programming, web development.
+- 📫 Please email via dj29.darshan1999@gmail.com to reach me.
 - ⚡ Fun fact: ...
--->
+
+[![HitCount](http://hits.dwyl.com/DeepanshuJain29/https://githubcom/DeepanshuJain29/DeepanshuJain29.svg)](http://hits.dwyl.com/DeepanshuJain29/https://githubcom/DeepanshuJain29/DeepanshuJain29)
+
+⭐️ From [DeepanshuJain29](https://github.com/DeepanshuJain29)
