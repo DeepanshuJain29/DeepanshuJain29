@@ -10,15 +10,19 @@
 <a href="https://twitter.com/Dj_Deepanshu17/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />
 </a>
+<a href="https://www.kaggle.com/snailreflex29/">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kaggle.svg" />
+</a>
+<br>
 <br>
  
-I'm a final year Software Engineering student from Indore. I am a Data Science and programming enthusiast, love exploring new technologies and implement them in my projects.
+I'm a final year Software Engineering student from Indore. I am a Data Science and programming enthusiast, love exploring new technologies and implement them in my projects.  
 - 🔭 I’m currently working on Convolutional Neural Networks(CNNs).
 - 🌱 I’m currently learning General Adversarial Networks(GANs).
 - 👯 I’m looking to collaborate on projects on Deep Learning.
-- 💬 Ask me about Python, data science, competitive programming, web development.
+- 💬 Ask me about Python, Data Science, Competitive Programming, Web and Mobile Development, Augmented Reality(AR).
 - 📫 Please email via dj29.darshan1999@gmail.com to reach me.
-- ⚡ Fun fact: ...
+- ⚡ 
 
 [![HitCount](http://hits.dwyl.com/DeepanshuJain29/https://githubcom/DeepanshuJain29/DeepanshuJain29.svg)](http://hits.dwyl.com/DeepanshuJain29/https://githubcom/DeepanshuJain29/DeepanshuJain29)
 
