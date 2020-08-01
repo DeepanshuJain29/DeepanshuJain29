@@ -27,6 +27,5 @@ I'm a final year Software Engineering student from Indore. I am a Data Science a
 [![HitCount](http://hits.dwyl.com/DeepanshuJain29/https://githubcom/DeepanshuJain29/DeepanshuJain29.svg)](http://hits.dwyl.com/DeepanshuJain29/https://githubcom/DeepanshuJain29/DeepanshuJain29)  
 <br>
 ![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=DeepanshuJain29&show_icons=true&count_private=true&hide=issues)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuJain29&layout=compact&count_private=true)
 
 ⭐️ From [DeepanshuJain29](https://github.com/DeepanshuJain29)
