@@ -23,6 +23,8 @@ I'm a final year Software Engineering student from Indore. I am a Data Science a
 - 💬 Ask me about Python, Data Science, Competitive Programming, Web and Mobile Development, Augmented Reality(AR).
 - 📫 Please email via dj29.darshan1999@gmail.com to reach me.
 
+</br>
+
 ![Deepanshu's github stats](https://github-readme-stats.vercel.app/api?username=DeepanshuJain29&show_icons=true&count_private=true&hide=issues)  
 
 
